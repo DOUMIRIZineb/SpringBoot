@@ -30,6 +30,7 @@ import com.example.springbootProject.repository.UserRepository;
 import com.example.springbootProject.security.jwt.JwtUtils;
 import com.example.springbootProject.security.services.UserDetailsImpl;
 
+//This a controller
 @CrossOrigin(origins = "http://localhost:4200")
 @RestController
 @RequestMapping("/api/auth")
