@@ -38,6 +38,7 @@ public class AuthController {
     @Autowired
     AuthenticationManager authenticationManager;
 
+    //commentaire pour git
     @Autowired
     UserRepository userRepository;
 
